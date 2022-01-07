@@ -16,7 +16,7 @@ if username_input == username and password_input == password:
     time.sleep(1)
     print('Loading...')
     time.sleep(1)
-    print ('.Ok u can enter')
+    print ('OK you can come inside')
 elif username_input == username and password_input != password:
     print('Password incorrect')
 else:

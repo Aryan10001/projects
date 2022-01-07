@@ -1,5 +1,5 @@
-a = 48
-b = 238
+a = int(input("What is the number"))
+b = int(input("What is the number"))
 def add(num):
     return a + b
 num1 = a,b
